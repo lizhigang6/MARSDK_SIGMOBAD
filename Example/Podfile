@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MARSDK_SIGMOBAD_Tests' do
+  pod 'MARSDK_SIGMOBAD', :path => '../'
+  
+  
+end
