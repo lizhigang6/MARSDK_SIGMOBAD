@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		6E2nsBblUFEYGtf+0c0+CHUqIVc=
+		</data>
 		<key>Headers/SigmobADManager.h</key>
 		<data>
 		0vPyw3/wjlGfoboEAPJXBiMEjHw=
@@ -14,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lTy6wQtvhQlVgi+rCl7e3woTZAc=
+		0afGoKLoCZWkjoq5WgoGmcFbSys=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
