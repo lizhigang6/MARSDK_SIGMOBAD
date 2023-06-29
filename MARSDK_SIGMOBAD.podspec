@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'MARSDK_SIGMOBAD'
-  s.version          = '3.0.5'
+  s.version          = '3.1.0'
   s.summary          = '广告渠道配合marsdk 使用'
   s.description  = <<-DESC
 火星人打包工具sdk 
@@ -17,8 +17,8 @@ s.vendored_frameworks  = 'MARSDK_SIGMOBAD/Classes/*'
 s.resource_bundles = {
      'toponBundle' => ['MARSDK_SIGMOBAD/Assets/*']
  }
-#s.frameworks = "StoreKit","CFNetwork","AdSupport","CoreMotion","MediaPlayer","CoreGraphics","AVFoundation","CoreLocation","CoreTelephony","SafariServices","MobileCoreServices","SystemConfiguration","AdSupport","ImageIO","AudioToolbox"
-#s.ios.library = "z","sqlite3","c++","bz2" 
+# s.frameworks = "StoreKit","CFNetwork","AdSupport","CoreMotion","MediaPlayer","CoreGraphics","AVFoundation","CoreLocation","CoreTelephony","SafariServices","MobileCoreServices","SystemConfiguration","AdSupport","ImageIO","AudioToolbox"
+# s.ios.library = "z","sqlite3","c++","bz2" 
 # s.dependency 'AnyThinkiOS','~> 5.9.61'
 s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64'}
 end
