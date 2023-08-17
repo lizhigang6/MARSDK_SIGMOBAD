@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'MARSDK_SIGMOBAD'
-  s.version          = '4.0.1'
+  s.version          = '4.0.2'
   s.summary          = '广告渠道配合marsdk 使用'
   s.description  = <<-DESC
 火星人打包工具sdk 
