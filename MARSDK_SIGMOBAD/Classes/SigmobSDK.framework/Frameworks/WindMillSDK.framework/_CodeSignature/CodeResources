@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/AWMCustomConfigAdapter.h</key>
 		<data>
-		+PiSh3tl4GRRalnbmKtw0Tzmf1M=
+		+dXOfK6FjRXVBc58F3zdYvQJ+M0=
 		</data>
 		<key>Headers/AWMCustomConfigAdapterBridge.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/AWMCustomNativeAdapterBridge.h</key>
 		<data>
-		Wemus1QfEVPpb8cf1RAeBWV0xb8=
+		VNtsOXYwHZ+Ky0jj308ZyrZv7zY=
 		</data>
 		<key>Headers/AWMCustomRewardedVideoAdapter.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/AWMMediatedNativeAdViewCreator.h</key>
 		<data>
-		GGoM1TJG0ujN24mSIsfz1noOASo=
+		2hIfVdHohWOT/4E/5UYFswyYMwk=
 		</data>
 		<key>Headers/AWMParameter.h</key>
 		<data>
@@ -108,13 +108,17 @@
 		<data>
 		YvY5c9e3M9bcVrU72Q3d7R6w+Ho=
 		</data>
+		<key>Headers/ToBidChannelInfo.h</key>
+		<data>
+		apHutsWYEOkbhPVkTbA7TKb1e7Y=
+		</data>
 		<key>Headers/WADOptions.h</key>
 		<data>
 		BKkjV+9v6wuHZA5YThmTLTroFyM=
 		</data>
 		<key>Headers/WADStrategy.h</key>
 		<data>
-		NCnpGL1PqUYw1RzhQElD1pVs+Ss=
+		JmEIkgUz2o/EfWiMTDH/46qBH9s=
 		</data>
 		<key>Headers/WindMillAdInfo.h</key>
 		<data>
@@ -126,7 +130,7 @@
 		</data>
 		<key>Headers/WindMillAds.h</key>
 		<data>
-		Pz8FVs5I2lHrtPr7s0jx/2d3jtY=
+		nNIR2U6Tm9FEXpm+A9EY6gxY6PA=
 		</data>
 		<key>Headers/WindMillBannerView.h</key>
 		<data>
@@ -152,13 +156,17 @@
 		<data>
 		Zn+uHS8b0qIcfA83CMpZ8ViSo9w=
 		</data>
+		<key>Headers/WindMillNativeAdShakeView.h</key>
+		<data>
+		egHYShIdY3Qb6fAYHMC7u+wJVR0=
+		</data>
 		<key>Headers/WindMillNativeAdView.h</key>
 		<data>
-		MIWO+UOeuAy3U8TD3NcZuSDhGAM=
+		OH6ksPF7oM5asbl8AmuRtVON8xI=
 		</data>
 		<key>Headers/WindMillNativeAdsManager.h</key>
 		<data>
-		Izzm3ZCCVKo5/qZPOxCwUv83Ve4=
+		zFbrIO4UrSp68LXP+oikBiJFZTI=
 		</data>
 		<key>Headers/WindMillRewardInfo.h</key>
 		<data>
@@ -170,11 +178,11 @@
 		</data>
 		<key>Headers/WindMillSDK.h</key>
 		<data>
-		h+lPnhg9Nq/RvTqvheqLcYzhadw=
+		euHdG2O3IFD71u9rHTxEeRCqenc=
 		</data>
 		<key>Headers/WindMillSplashAd.h</key>
 		<data>
-		PEQJ063ii40bbU/lHyVnI6rPRW8=
+		1LH21lUFvfzHdn/PBp4RMlQszmM=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -257,11 +265,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+PiSh3tl4GRRalnbmKtw0Tzmf1M=
+			+dXOfK6FjRXVBc58F3zdYvQJ+M0=
 			</data>
 			<key>hash2</key>
 			<data>
-			209n35r5GA5HEeeBMaAeGxVIOc1tR5nMzozyg/BHCBs=
+			BeRxO+WbUSIiAB9WwPdHG2bbOeHtnn4Oim2jjonj8gY=
 			</data>
 		</dict>
 		<key>Headers/AWMCustomConfigAdapterBridge.h</key>
@@ -312,11 +320,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Wemus1QfEVPpb8cf1RAeBWV0xb8=
+			VNtsOXYwHZ+Ky0jj308ZyrZv7zY=
 			</data>
 			<key>hash2</key>
 			<data>
-			FDqbQeQ3FGEz9N2ZFFZ1gUvkBDC2Rf0JmyDbvr6vHtM=
+			TMNaY/9Ja6tCsTKdnPcCg5vQ+pdbb+vIWZgntbYGmVg=
 			</data>
 		</dict>
 		<key>Headers/AWMCustomRewardedVideoAdapter.h</key>
@@ -422,11 +430,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GGoM1TJG0ujN24mSIsfz1noOASo=
+			2hIfVdHohWOT/4E/5UYFswyYMwk=
 			</data>
 			<key>hash2</key>
 			<data>
-			g8fVgDmMKXHt1u8rJm80UHC8AP5h2eHVbiBQ8G2l31k=
+			BGUsNeF5FLKFdqEmcrGIpILwr0wQAc3yfi3zGPBPTRs=
 			</data>
 		</dict>
 		<key>Headers/AWMParameter.h</key>
@@ -473,6 +481,17 @@
 			UsLLkvyKzr3xgm/IByUDsZIVmQEnyKi4lPh7Ny2rcOk=
 			</data>
 		</dict>
+		<key>Headers/ToBidChannelInfo.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			apHutsWYEOkbhPVkTbA7TKb1e7Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			5gd4k4lQbz3m/DV1RFhsc4F59bW11Mp/DzctdnVxRUg=
+			</data>
+		</dict>
 		<key>Headers/WADOptions.h</key>
 		<dict>
 			<key>hash</key>
@@ -488,11 +507,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NCnpGL1PqUYw1RzhQElD1pVs+Ss=
+			JmEIkgUz2o/EfWiMTDH/46qBH9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Us6LXC0jWZfsV/MyWUk5Vf2OjM58l2jiAF/FoCMJL6Y=
+			vNAMbHkHsj9iws+bC56H2hsJiZ/032ydn74eGFc3n60=
 			</data>
 		</dict>
 		<key>Headers/WindMillAdInfo.h</key>
@@ -521,11 +540,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pz8FVs5I2lHrtPr7s0jx/2d3jtY=
+			nNIR2U6Tm9FEXpm+A9EY6gxY6PA=
 			</data>
 			<key>hash2</key>
 			<data>
-			s1Hw1eqo1F2qstZMimwIo5O3pP2W9VPN3FU7HvdViAA=
+			blyblFAbu4Hj2JnOKZnAiq7ysOEVV2QRsggBfdEmCPg=
 			</data>
 		</dict>
 		<key>Headers/WindMillBannerView.h</key>
@@ -594,26 +613,37 @@
 			OQsxpgfYZ0V94AelNcdnhJphpQdyN+IpFE3/MndLfsg=
 			</data>
 		</dict>
+		<key>Headers/WindMillNativeAdShakeView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			egHYShIdY3Qb6fAYHMC7u+wJVR0=
+			</data>
+			<key>hash2</key>
+			<data>
+			bZCITiFSdsrwbI83LIMwRbmxUkvpi7/roFOFX0E2s20=
+			</data>
+		</dict>
 		<key>Headers/WindMillNativeAdView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MIWO+UOeuAy3U8TD3NcZuSDhGAM=
+			OH6ksPF7oM5asbl8AmuRtVON8xI=
 			</data>
 			<key>hash2</key>
 			<data>
-			k+Kz3cAZM+9KqknLGDDhUElczba85d/PyYVVLceOlCA=
+			YNLDCSzGLu1/P91IMpnbFbusb3e7/VChPpbSKgrVgQI=
 			</data>
 		</dict>
 		<key>Headers/WindMillNativeAdsManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Izzm3ZCCVKo5/qZPOxCwUv83Ve4=
+			zFbrIO4UrSp68LXP+oikBiJFZTI=
 			</data>
 			<key>hash2</key>
 			<data>
-			KhXwUPp3G0WupedYFBgIgf/JayBN38ouphX+hpkQCCY=
+			WEmlOE5BVxBvn+EwrwLeJpzip07ATD1xPoUVRIu0tH4=
 			</data>
 		</dict>
 		<key>Headers/WindMillRewardInfo.h</key>
@@ -642,22 +672,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h+lPnhg9Nq/RvTqvheqLcYzhadw=
+			euHdG2O3IFD71u9rHTxEeRCqenc=
 			</data>
 			<key>hash2</key>
 			<data>
-			PVYAAWMbT3rzkLGircXJ1U6ojRRAjl3T9hsmuMdDY+s=
+			amPizLPYWSFQzurtmitX240HMo37c/YaOEF8exds0LQ=
 			</data>
 		</dict>
 		<key>Headers/WindMillSplashAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PEQJ063ii40bbU/lHyVnI6rPRW8=
+			1LH21lUFvfzHdn/PBp4RMlQszmM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ClrEvY6Hvu5/AG2tQMD3vVaV/MMAADSUxCQV2dCbTWk=
+			LeuCC9+o0WbVnP7MMHDE6ThCal3zRD5OPHLxfyawwTg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -248,6 +248,10 @@
 		<data>
 		sBvGiOF/BFK/rHd/uWpR5XLeS5A=
 		</data>
+		<key>Headers/SMTrackingQueueManager.h</key>
+		<data>
+		eguwhRNNP+7CEmnxgXqBmzl/lrI=
+		</data>
 		<key>Headers/SMURLSessionManager.h</key>
 		<data>
 		0IHSus2Hwrtta46O9WYXczw87YI=
@@ -338,7 +342,7 @@
 		</data>
 		<key>Headers/WindFoundation.h</key>
 		<data>
-		FPBCt7GOHYmSN0EYqB8gWwx40jg=
+		EJSO973KPHekgiYUu/XDeSb/zTY=
 		</data>
 		<key>Headers/WindFoundationSDK.h</key>
 		<data>
@@ -534,7 +538,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fLpP3Hsk1cHRq8uFC/Bt4tAX+2E=
+		3KLg23PPy7afsH0Ah0aCnlTG/HA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1214,6 +1218,17 @@
 			ZAgYiwe2EBVX+vLKPazH3fWpPT2B+hsPvHqLNRHtHZs=
 			</data>
 		</dict>
+		<key>Headers/SMTrackingQueueManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eguwhRNNP+7CEmnxgXqBmzl/lrI=
+			</data>
+			<key>hash2</key>
+			<data>
+			9T8fr6XOT6I/0Ve2ovzyGrUBDLHuFPHG5dcNZ5lhvlI=
+			</data>
+		</dict>
 		<key>Headers/SMURLSessionManager.h</key>
 		<dict>
 			<key>hash</key>
@@ -1460,11 +1475,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FPBCt7GOHYmSN0EYqB8gWwx40jg=
+			EJSO973KPHekgiYUu/XDeSb/zTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			TbT4s4jlxFPrIUR7BRdKuSoxdN1dyhhR0BXSwzrSOP8=
+			0h4WSNwb9KiPBKYCkXKHOi6g2L0qGIUWD1kd1sLCATk=
 			</data>
 		</dict>
 		<key>Headers/WindFoundationSDK.h</key>
