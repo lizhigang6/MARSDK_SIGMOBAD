@@ -1,6 +1,6 @@
 framework module SigmobSDK {
   umbrella header "SigmobSDK.h"
-
   export *
+
   module * { export * }
 }

@@ -58,7 +58,8 @@ typedef NS_ENUM(NSInteger, SigmobADType) {
 
 
 
-
+//竞价功能
+@property (nonatomic, strong) NSString * bidding_enable;
 
 
 @property id<MARAdPopupDelegate> Popupdelegate;
