@@ -66,7 +66,7 @@
 		</data>
 		<key>Headers/SMAdLogManager.h</key>
 		<data>
-		vVjY2/D6o41rEqC93FLfwlBefVA=
+		PEeQGDKZHwjcfLw99GN5Ls2BE+0=
 		</data>
 		<key>Headers/SMAlivedThread.h</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Headers/SMDeviceTool.h</key>
 		<data>
-		141FDXgSFDlwk1SahyFfpOUIn0k=
+		p+y1IkaEs6MsWfbwKYh3OoqbXDE=
 		</data>
 		<key>Headers/SMDispatchQueueLogFormatter.h</key>
 		<data>
@@ -538,11 +538,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3KLg23PPy7afsH0Ah0aCnlTG/HA=
+		D1jkgD3BbfUiRvYjrbpTuo9oCbU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		1k100tQc5C44pZ1gjRLg1w2MM2U=
+		5zBoJbc6nPg6Msf6u42CI6z1i6U=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		/Ob96ulOlVP7Gztxfa9S4AcuRpg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -716,11 +720,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vVjY2/D6o41rEqC93FLfwlBefVA=
+			PEeQGDKZHwjcfLw99GN5Ls2BE+0=
 			</data>
 			<key>hash2</key>
 			<data>
-			27fgrd/GUQRDSV5v9omZJ6ld7wCBz/Gj+nCQaSpY6+U=
+			4MCZljjw8xo7ecB99hQ35kkGuHS4PpuBx4TLuULd37k=
 			</data>
 		</dict>
 		<key>Headers/SMAlivedThread.h</key>
@@ -848,11 +852,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			141FDXgSFDlwk1SahyFfpOUIn0k=
+			p+y1IkaEs6MsWfbwKYh3OoqbXDE=
 			</data>
 			<key>hash2</key>
 			<data>
-			M1lMzKSR2QSwZF6y3QcVjrACHDTCFYnFHioTPHZpHtM=
+			ON9pozF9xEqvmsxpEBYOGVjRtm+qhkrKC4UhrPLw+rI=
 			</data>
 		</dict>
 		<key>Headers/SMDispatchQueueLogFormatter.h</key>
@@ -2014,11 +2018,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1k100tQc5C44pZ1gjRLg1w2MM2U=
+			5zBoJbc6nPg6Msf6u42CI6z1i6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			6leKIBYq8TDhR8N5yHY/LySHAnilLsP86mTax8NKYy4=
+			alfod7zLXzeyzGOQ1QHRWCqtBPHxWT2b0Kf42lpMqSE=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Ob96ulOlVP7Gztxfa9S4AcuRpg=
+			</data>
+			<key>hash2</key>
+			<data>
+			oPtiJ2YUNtx2Me7YEA5viC6ldsJ8TnjzTR6T7WjZ5mc=
 			</data>
 		</dict>
 	</dict>
