@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/WindAdRequest.h</key>
 		<data>
-		8eHNRcu2EMTI2AUGXj80SBDmPxE=
+		nLMFJD+SfqjMN0hUdeBqo+1xiYg=
 		</data>
 		<key>Headers/WindAds.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/WindConstant.h</key>
 		<data>
-		WUwItfC53X+sh5iXyZwz7dyPOQo=
+		OO6eJ0xUeCuo3kYORgSW4QydbLw=
 		</data>
 		<key>Headers/WindDislikeWords.h</key>
 		<data>
@@ -30,11 +30,7 @@
 		</data>
 		<key>Headers/WindEnum.h</key>
 		<data>
-		Wm62qL9r/vnhyMbDRmGLXmrWHvc=
-		</data>
-		<key>Headers/WindIntersititialAd.h</key>
-		<data>
-		UiYhzEhnia4ajax4er8M0tyZpLE=
+		VPayfIl2K8iv96repNXpE+f/0aA=
 		</data>
 		<key>Headers/WindLocation.h</key>
 		<data>
@@ -46,7 +42,7 @@
 		</data>
 		<key>Headers/WindNativeAd.h</key>
 		<data>
-		V5vs3MvOlnJ+g6c86x2N1wBie0w=
+		4T2+5qN2cPTS0Gr8zT6AJLA8M64=
 		</data>
 		<key>Headers/WindNativeAdView.h</key>
 		<data>
@@ -66,15 +62,15 @@
 		</data>
 		<key>Headers/WindRewardInfo.h</key>
 		<data>
-		kb3Afod1s+HsRMIwFr60pmlmjYU=
+		kY78uoLMCyzAsJfghKiBkjut6rQ=
 		</data>
 		<key>Headers/WindRewardVideoAd.h</key>
 		<data>
-		PF7q3f1hXIoOsL65Dhmx4CikA6k=
+		Ro9/gpGaxaObaof0Dq+6eOKq0VI=
 		</data>
 		<key>Headers/WindSDK.h</key>
 		<data>
-		Zw+jHUTn6lbcZBSKSDg4cKZ8QSg=
+		oet4JoQ4TyLhOHPQPSnXL9ulUIk=
 		</data>
 		<key>Headers/WindSplashAdView.h</key>
 		<data>
@@ -82,11 +78,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nN6OyYDUxeALpe+kBzU8fFRANkw=
+		ezxh6VmvMceAGEjp6mGnCEtm5ig=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		84YvvHljdfuGmLhE64Xe25tvCSw=
+		0ZvmBKevp0o7w/q+Oi1VVj9GGw0=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		/Ob96ulOlVP7Gztxfa9S4AcuRpg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -106,11 +106,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8eHNRcu2EMTI2AUGXj80SBDmPxE=
+			nLMFJD+SfqjMN0hUdeBqo+1xiYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			0KeGJZqZtqEF/oegqApYwbVL72j4krNED8wNX0cmICI=
+			F3uDWGd6P6WFHhE7yquCil+QNrgdyJIc+EpTnjYtfYY=
 			</data>
 		</dict>
 		<key>Headers/WindAds.h</key>
@@ -139,11 +139,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WUwItfC53X+sh5iXyZwz7dyPOQo=
+			OO6eJ0xUeCuo3kYORgSW4QydbLw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bdaUyc0jnzra98KBKDCGNux2q6gjAAgNYqHJhXOLVRE=
+			4OzF4aWq8awks1t1Ln+iT3D+zp6GWWAnP9Q28+ff2Kk=
 			</data>
 		</dict>
 		<key>Headers/WindDislikeWords.h</key>
@@ -161,22 +161,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Wm62qL9r/vnhyMbDRmGLXmrWHvc=
+			VPayfIl2K8iv96repNXpE+f/0aA=
 			</data>
 			<key>hash2</key>
 			<data>
-			k2lQZ/4jlYBT4XrKy6Y1YwbTrwI1dgTqyAZcqosmCqs=
-			</data>
-		</dict>
-		<key>Headers/WindIntersititialAd.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UiYhzEhnia4ajax4er8M0tyZpLE=
-			</data>
-			<key>hash2</key>
-			<data>
-			qe73l2smXMuqg7YJXY/VR8MVSqe8rJz3zZRunbXpTeg=
+			MZweM0RF2mPL+ES+5BvBHvgkHTTKZ6S7/162iz9MYco=
 			</data>
 		</dict>
 		<key>Headers/WindLocation.h</key>
@@ -205,11 +194,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V5vs3MvOlnJ+g6c86x2N1wBie0w=
+			4T2+5qN2cPTS0Gr8zT6AJLA8M64=
 			</data>
 			<key>hash2</key>
 			<data>
-			1jkaz+NaymcTV2wq1vxpGpTJbZl81ClqYAz+MAyp7CY=
+			wng3RL0mWOy20MUx6433eKyRyocLR87A5qyM2mRXEdo=
 			</data>
 		</dict>
 		<key>Headers/WindNativeAdView.h</key>
@@ -260,33 +249,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kb3Afod1s+HsRMIwFr60pmlmjYU=
+			kY78uoLMCyzAsJfghKiBkjut6rQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			T1suNWLaYQ3b67u4rtWr1PHETyMySxcMHiKYV/Ts82E=
+			LkiFDSHZuqKxil8TjDYXoFTIxnZ5xcCooLnV03uh5uA=
 			</data>
 		</dict>
 		<key>Headers/WindRewardVideoAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PF7q3f1hXIoOsL65Dhmx4CikA6k=
+			Ro9/gpGaxaObaof0Dq+6eOKq0VI=
 			</data>
 			<key>hash2</key>
 			<data>
-			8ZFXoOJhqMdojdlSFV+Cf+hlJWcfz5slsBikU8dbfMg=
+			z/m+UJOzVzJgaNgBVPO795pmUfXqYWfMEmgCJAHxngc=
 			</data>
 		</dict>
 		<key>Headers/WindSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zw+jHUTn6lbcZBSKSDg4cKZ8QSg=
+			oet4JoQ4TyLhOHPQPSnXL9ulUIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			DWMBJombpVc3CylClmX2n8jVUx+KbRuxrJMVlWBAbOM=
+			eQ7zwM1FP8N5sj2hO28DES6Q35pU2R/SapoJc7HdztE=
 			</data>
 		</dict>
 		<key>Headers/WindSplashAdView.h</key>
@@ -304,11 +293,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			84YvvHljdfuGmLhE64Xe25tvCSw=
+			0ZvmBKevp0o7w/q+Oi1VVj9GGw0=
 			</data>
 			<key>hash2</key>
 			<data>
-			t//2Hm13s3YCQXz3haky1JAWIURf+3HbCnBGNzA8Bys=
+			/jjudwA5g4DvqEOzRwW3y5bqAZqkW2wU5GOgqflsz+0=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Ob96ulOlVP7Gztxfa9S4AcuRpg=
+			</data>
+			<key>hash2</key>
+			<data>
+			oPtiJ2YUNtx2Me7YEA5viC6ldsJ8TnjzTR6T7WjZ5mc=
 			</data>
 		</dict>
 	</dict>
