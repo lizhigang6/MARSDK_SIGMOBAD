@@ -134,7 +134,7 @@
 		</data>
 		<key>Headers/SMDeviceTool.h</key>
 		<data>
-		p+y1IkaEs6MsWfbwKYh3OoqbXDE=
+		k5tZfa/ImIv+VW0I5Nv5ahs5O9o=
 		</data>
 		<key>Headers/SMDispatchQueueLogFormatter.h</key>
 		<data>
@@ -314,11 +314,11 @@
 		</data>
 		<key>Headers/SigmobBidRequest.pbobjc.h</key>
 		<data>
-		vXyLvtsknF09Fy8Z64WpRoKTlzg=
+		WRQyP/07XifD106CT1NkdSmS79U=
 		</data>
 		<key>Headers/SigmobCommon.pbobjc.h</key>
 		<data>
-		sA0dhr0fSfUvuep0KElIOnznHuY=
+		ZeCis7P3ARp+R65BSFPb4iWcjXk=
 		</data>
 		<key>Headers/SigmobLog.h</key>
 		<data>
@@ -678,7 +678,7 @@
 		</data>
 		<key>Headers/WindHCLog.h</key>
 		<data>
-		bpDlDJCAQdkDSwaMvbB3ogne8bI=
+		SlnkDYrZRB6mr9C+dRIcr/OSJ5U=
 		</data>
 		<key>Headers/WindHCMacro.h</key>
 		<data>
@@ -822,7 +822,7 @@
 		</data>
 		<key>Headers/WindPointer.h</key>
 		<data>
-		Q+bZKsf1DiYZ8Lftawghs4ODDk8=
+		RXf5hXpWCfXzQeiKbItJCaisTBA=
 		</data>
 		<key>Headers/WindPortraitViewController.h</key>
 		<data>
@@ -910,7 +910,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aAmQ0LF9C4F6Lvug0BNt4LSD5dE=
+		cdP1y0oVM1FQ+2TrqA+B1KZYsaQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1279,11 +1279,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p+y1IkaEs6MsWfbwKYh3OoqbXDE=
+			k5tZfa/ImIv+VW0I5Nv5ahs5O9o=
 			</data>
 			<key>hash2</key>
 			<data>
-			ON9pozF9xEqvmsxpEBYOGVjRtm+qhkrKC4UhrPLw+rI=
+			c302tNZlafB31/QTpqYbCr32SkwRedtDm6Yxr9QzZIk=
 			</data>
 		</dict>
 		<key>Headers/SMDispatchQueueLogFormatter.h</key>
@@ -1774,22 +1774,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vXyLvtsknF09Fy8Z64WpRoKTlzg=
+			WRQyP/07XifD106CT1NkdSmS79U=
 			</data>
 			<key>hash2</key>
 			<data>
-			CosBynwjqlDmSdZnSlLSOzr4391bI53Z32ezHstPN6U=
+			+VqaBYxs7qTzMMSmRPX2L08TN7oAHPccblTGtTkpkdI=
 			</data>
 		</dict>
 		<key>Headers/SigmobCommon.pbobjc.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sA0dhr0fSfUvuep0KElIOnznHuY=
+			ZeCis7P3ARp+R65BSFPb4iWcjXk=
 			</data>
 			<key>hash2</key>
 			<data>
-			eRelbRrK/d/Td6Rhs92A3v8KBnBB7LjAY4UNTTWgB18=
+			zC7i6vQnLDjsiExcu7/9CRu4vg90J7A8lKO+ZbpfwKQ=
 			</data>
 		</dict>
 		<key>Headers/SigmobLog.h</key>
@@ -2775,11 +2775,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bpDlDJCAQdkDSwaMvbB3ogne8bI=
+			SlnkDYrZRB6mr9C+dRIcr/OSJ5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			RSKN8r/+sJg/pZ9yj2EEVH1YoJ1XdMDdeM3f3TrIEKk=
+			Pv7IxQ3UTlg1/fE5XxkPeNt9JWRncZkM8Pt4mrNlQXE=
 			</data>
 		</dict>
 		<key>Headers/WindHCMacro.h</key>
@@ -3171,11 +3171,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q+bZKsf1DiYZ8Lftawghs4ODDk8=
+			RXf5hXpWCfXzQeiKbItJCaisTBA=
 			</data>
 			<key>hash2</key>
 			<data>
-			glo7DGjTlCIymJfAsDuEgoN+0C5+FjgAwYqsxSek8qQ=
+			DATZ48gPrEDfK6tE6OLloac2XFdmTTkIJkf09LU/WP4=
 			</data>
 		</dict>
 		<key>Headers/WindPortraitViewController.h</key>
