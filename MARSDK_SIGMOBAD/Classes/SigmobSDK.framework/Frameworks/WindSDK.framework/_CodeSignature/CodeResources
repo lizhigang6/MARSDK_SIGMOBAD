@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/WindDislikeWords.h</key>
 		<data>
-		/Ztk4YWo1WAn4z0wX4HTSqaFcac=
+		PIab0wxXx5jLZTcX6lhlCD2mFg8=
 		</data>
 		<key>Headers/WindEnum.h</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Headers/WindMediaView.h</key>
 		<data>
-		7xnyQkRl/v/7SUgrt7jirsxN3wE=
+		WXRnVZi1przUsBaQnE3Z+oEdB2o=
 		</data>
 		<key>Headers/WindNativeAd.h</key>
 		<data>
-		93h44Ok2Vo6P8P/8SLUm9osGPv0=
+		WHyW9ehY57PCBHdvCLbrIpAAiRg=
 		</data>
 		<key>Headers/WindNativeAdView.h</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Headers/WindPrivacyProtocol.h</key>
 		<data>
-		+SN6AjmDhnh3wKqsbF6CpGaMvFc=
+		JT6YLiZrZuPcNQ+P6am/Ec87P3U=
 		</data>
 		<key>Headers/WindRewardInfo.h</key>
 		<data>
-		kY78uoLMCyzAsJfghKiBkjut6rQ=
+		9rWwiy+/sMZZ/vVa6BMRnQ58QBE=
 		</data>
 		<key>Headers/WindRewardVideoAd.h</key>
 		<data>
@@ -150,11 +150,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Ztk4YWo1WAn4z0wX4HTSqaFcac=
+			PIab0wxXx5jLZTcX6lhlCD2mFg8=
 			</data>
 			<key>hash2</key>
 			<data>
-			WDIaIxcmc4PUQAfx5XSsvYWLggZHt/oaRvFc3FKwAbU=
+			D1x/tXfF1vinJE6ZfWdM88wpVVAu1LvMIGC8tOFq+nY=
 			</data>
 		</dict>
 		<key>Headers/WindEnum.h</key>
@@ -183,22 +183,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7xnyQkRl/v/7SUgrt7jirsxN3wE=
+			WXRnVZi1przUsBaQnE3Z+oEdB2o=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ewbi3iXD625AS8i/sBtAB+zeFSApGxwc2Fdk8ufeh9s=
+			1BZ173iImhR8H2MBmSdlpWrVLu3zFxY/nf0XIQVkZj8=
 			</data>
 		</dict>
 		<key>Headers/WindNativeAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			93h44Ok2Vo6P8P/8SLUm9osGPv0=
+			WHyW9ehY57PCBHdvCLbrIpAAiRg=
 			</data>
 			<key>hash2</key>
 			<data>
-			MqzZ2OEGlX4fJMgIA24H6UiEc/3Ut8pFNUe9Wzfbroo=
+			5arQVHAdAMayf2sRE8bTYmkS9wPWeMALBdQcBLJfEMw=
 			</data>
 		</dict>
 		<key>Headers/WindNativeAdView.h</key>
@@ -238,22 +238,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+SN6AjmDhnh3wKqsbF6CpGaMvFc=
+			JT6YLiZrZuPcNQ+P6am/Ec87P3U=
 			</data>
 			<key>hash2</key>
 			<data>
-			nImCOTc2gw5bJEoHJINi2nz1gQNfEGUsAF1YyfMNN4U=
+			m7w9IHFg4Wh42siFsj45aT81WHR0mpL+zpyaQR6Uzj8=
 			</data>
 		</dict>
 		<key>Headers/WindRewardInfo.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kY78uoLMCyzAsJfghKiBkjut6rQ=
+			9rWwiy+/sMZZ/vVa6BMRnQ58QBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			LkiFDSHZuqKxil8TjDYXoFTIxnZ5xcCooLnV03uh5uA=
+			JHXHBLd1kvnU4mh0qqSoQdNp1Y9pVlh9nC6RG9eNhug=
 			</data>
 		</dict>
 		<key>Headers/WindRewardVideoAd.h</key>
